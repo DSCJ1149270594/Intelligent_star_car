@@ -1,0 +1,5 @@
+path: ./  # 相对路径，dataset root dir
+train: images/train  # train images
+val: images/val  # val images
+nc: 7  # 类别数量
+names: ['Nezha', 'Nezha2', 'Red', 'Red_Yellow', 'Aobing', 'Green', 'Yellow']  # 类别名称
